@@ -1,6 +1,6 @@
 # arnoldUSD
 
-compiled library for usd core version 20.08 from PixarAnimationStudios repo in https://github.com/Autodesk/arnold-usd
+compiled library for usd core version 20.08 from Autodesk repo in https://github.com/Autodesk/arnold-usd
 
 
 Yo need to  set these environmental variables to be able to use this library
